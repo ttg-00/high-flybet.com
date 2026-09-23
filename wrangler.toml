@@ -1,0 +1,11 @@
+name = "high-flybet-com"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=high-flybet.com"
+HMAC_KEY = "46d56dfac5c996c03b050635d9d76979f844554b1048b2112a6b246d3b5257e3"
+COOKIE_NAME = "2yl"
+PLAY_PATH = "play-now"
+BUTTON_ID = "p6b4530a1bc4a88e027355f43fde16b7a"
+GATE_SALT = "17099ae1b83b3970"
